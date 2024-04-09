@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
 
         int boardWidth = 600;
-        int boardHeight = boardWidth;
+        int boardHeight = 600;
 
         JFrame frame = new JFrame("Snake");
         frame.setVisible(true);
