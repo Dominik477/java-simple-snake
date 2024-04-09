@@ -1,8 +1,8 @@
 package org.example;
 
 public class Tile {
-    int x;
-    int y;
+    private int x;
+    private int y;
 
     public Tile(int x, int y) {
         this.x = x;
